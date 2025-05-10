@@ -3,8 +3,9 @@
 ### 🚀 About Me:  
 - 🏫 Master’s Student at **San Jose State University**  
 - 🎓 Majoring in **Computer Software Engineering**
-- 🔧 Former Software Engineer at **Deloitte**  
-- 🤝 Open to collaboration on **Application Development**
+- 🔧 Former Software Engineer at **Deloitte** 
+- 🧠 Passionate about **Agentic AI** and building **LLM-powered autonomous systems**  
+- 🤝 Open to collaboration on **Application Development and AI Agents**
 
 ## 🚀 Technical Skills
 <div align="center">
@@ -77,6 +78,15 @@
 <table>
   <tr>
     <td><img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/></td>
+  </tr>
+</table>
+
+### 🧠 Intelligent Agents & Frameworks  
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge&logo=LangGraph&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/ReAct_Agent-FF5733?style=for-the-badge&logo=react&logoColor=white"/></td>
   </tr>
 </table>
 
