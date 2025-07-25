@@ -5,7 +5,7 @@
 - 🎓 Majoring in **Computer Software Engineering**
 - 🔧 Former Software Engineer at **Deloitte** 
 - 🧠 Passionate about **Agentic AI** and building **LLM-powered autonomous systems**  
-- 🤝 Open to collaboration on **Application Development and AI Agents**
+- 🤝 Open to collaboration on **Cross Platform Application Development(Web, ios, android) and AI Agents**
 
 ## 🚀 Technical Skills
 <div align="center">
@@ -31,6 +31,8 @@
     <td><img src="https://img.shields.io/badge/AngularJS-DD0031?style=for-the-badge&logo=angularjs&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
     <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/></td>
   </tr>
 </table>
 
@@ -41,6 +43,7 @@
     <td><img src="https://img.shields.io/badge/HANA-2E86C1?style=for-the-badge&logo=sap&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></td>
   </tr>
 </table>
 
@@ -87,6 +90,10 @@
     <td><img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/LangGraph-4B32C3?style=for-the-badge&logo=LangGraph&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/ReAct_Agent-FF5733?style=for-the-badge&logo=react&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Cursor-333333?style=for-the-badge&logo=cursor&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/Windsurf-4B9CD3?style=for-the-badge&logo=windsurf&logoColor=white"/></td>
+  </tr>
   </tr>
 </table>
 
